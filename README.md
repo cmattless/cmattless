@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Freetool Project](https://thefreetoolproject.eu/) with [UCD CCI](https://www.ucd.ie/cci/)
 
-- 👨‍💻 All of my projects are available at [www.connormattless.com](www.connormattless.com)
+- 👨‍💻 All of my projects are available at [www.connormattless.com](https://www.connormattless.com)
 
 I am a highly skilled and detail-oriented Python and React JS developer with a proven track record of delivering clean, modular, and thoroughly tested code.
 
@@ -49,7 +49,7 @@ With extensive experience in both Python and React JS, I have successfully:
 ## Get in Touch
 
 I am always open to discussing projects and collaborative opportunities. Please feel free to reach out via:
-- **Website:** [www.connormattless.com](www.connormattless.com)
+- **Website:** [www.connormattless.com](https://www.connormattless.com)
 - **LinkedIn:** [connor-mattless](https://www.linkedin.com/in/connor-mattless)
 ---
 
