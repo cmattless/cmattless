@@ -17,7 +17,7 @@ I am a highly skilled and detail-oriented Python and React JS developer with a p
   - Expertise in building RESTful APIs, automation scripts, and data processing pipelines.
 
 - **React JS Development**
-  - Robust, component-driven architecture.
+  - Atomic, component-driven architecture.
   - Focus on performance, reusability, and responsive design.
   - Proficiency in state management, hooks, and integrating with backend services.
 
@@ -32,7 +32,7 @@ I am a highly skilled and detail-oriented Python and React JS developer with a p
 
 With extensive experience in both Python and React JS, I have successfully:
 - Developed and delivered scalable web applications with clear separation of concerns.
-- Implemented automated test suites ensuring robust code quality.
+- Implemented automated test suites ensuring code quality.
 - Collaborated with cross-functional teams to deliver innovative software solutions.
 
 ---
